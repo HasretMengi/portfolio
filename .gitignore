@@ -1,0 +1,9 @@
+# Ignore .env file
+.env
+
+
+vendor/
+.vscode/
+*.json
+*.lock
+
