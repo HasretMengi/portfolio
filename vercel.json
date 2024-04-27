@@ -1,8 +1,0 @@
-{
-    "functions": {
-        "forms/contact.php": { "runtime": "vercel-php@0.6.0" }
-    },
-    "routes": [
-        { "src": "/forms/contact.php", "dest": "/forms/contact.php" }
-    ]
-}
