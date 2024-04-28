@@ -5,7 +5,7 @@
       }
     },
     "routes": [
-      { "src": "/forms/contact.php", "dest": "/forms/contact.php" }
+      { "src": "/api/contact.php", "dest": "/api/contact.php" }
     ]
   }
   
