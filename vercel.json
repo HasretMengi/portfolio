@@ -1,7 +1,6 @@
 {
     "functions": {
       "contact": {
-        "handler": "forms/contact.php",
         "runtime": "vercel-php@0.6.0"
       }
     },
@@ -9,4 +8,5 @@
       { "src": "/forms/contact.php", "dest": "/forms/contact.php" }
     ]
   }
+  
   
